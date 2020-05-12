@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card-react-app/static/css/main.1832d120.chunk.css",
+    "main.js": "/card-react-app/static/js/main.4f63e348.chunk.js",
+    "main.js.map": "/card-react-app/static/js/main.4f63e348.chunk.js.map",
+    "runtime-main.js": "/card-react-app/static/js/runtime-main.7c300219.js",
+    "runtime-main.js.map": "/card-react-app/static/js/runtime-main.7c300219.js.map",
+    "static/js/2.7aaef059.chunk.js": "/card-react-app/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/card-react-app/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/card-react-app/index.html",
+    "precache-manifest.08b4aaa8729c8684dd2bca356fe00c37.js": "/card-react-app/precache-manifest.08b4aaa8729c8684dd2bca356fe00c37.js",
+    "service-worker.js": "/card-react-app/service-worker.js",
+    "static/css/main.1832d120.chunk.css.map": "/card-react-app/static/css/main.1832d120.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/card-react-app/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c300219.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.1832d120.chunk.css",
+    "static/js/main.4f63e348.chunk.js"
+  ]
+}
